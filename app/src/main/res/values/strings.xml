@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyList</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_lista">Listas cadastradas</string>
+    <string name="novo">Novo</string>
+    <string name="qtdItens">{0} item(ns)</string>
+</resources>
